@@ -1,0 +1,35 @@
+/*!**********************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/vue-loader/dist/stylePostLoader.js!./node_modules/vue-loader/dist/index.js??ruleSet[1].rules[8].use[0]!./src/admin/pages/Home.vue?vue&type=style&index=0&id=9e5983fa&scoped=true&lang=css ***!
+  \**********************************************************************************************************************************************************************************************************************************************************/
+
+#vue-demo-site[data-v-9e5983fa] {
+    height: calc(100vh - 100px);
+    display: flex;
+    flex-direction: column;
+    row-gap: 15px;
+    justify-content: center;
+    align-items: center;
+}
+h1[data-v-9e5983fa] {
+    font-size: 5rem;
+    color: purple;
+    margin: 0;
+}
+h2[data-v-9e5983fa] {
+    font-size: 2rem;
+    margin: 0;
+}
+button[data-v-9e5983fa] {
+    padding: 10px 25px;
+    background: purple;
+    color: #fff;
+    border: 0;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-top: 50px;
+}
+
+/*!********************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/admin/scss/admin.scss ***!
+  \********************************************************************************************************************/
+
